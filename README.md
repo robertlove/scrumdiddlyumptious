@@ -1,3 +1,3 @@
 # Scrumdiddlyumptious
 
-https://scrum.diddlyumptio.us
+http://scrum.diddlyumptio.us/
